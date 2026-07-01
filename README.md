@@ -9,8 +9,9 @@ A terminal-based coding agent that understands natural-language requests and per
 ```
 coding-agent/
 ├── agent.py       # The agent — only file you need to run
-└── .gitignore     # Keeps backup files and cache out of git
+
 ```
+<img width="1917" height="1011" alt="image" src="https://github.com/user-attachments/assets/b30b9168-c021-41c4-8670-7d7503b1c457" />
 
 ---
 
