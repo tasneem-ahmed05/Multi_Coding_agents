@@ -11,7 +11,8 @@ coding-agent/
 ├── agent.py       # The agent — only file you need to run
 
 ```
-<img width="1917" height="1011" alt="image" src="https://github.com/user-attachments/assets/b30b9168-c021-41c4-8670-7d7503b1c457" />
+<img width="1918" height="1020" alt="image" src="https://github.com/user-attachments/assets/c80d128d-8e09-44a6-a286-6586dd71d8be" />
+
 
 ---
 
